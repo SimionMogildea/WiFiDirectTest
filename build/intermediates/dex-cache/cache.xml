@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC_2\Desktop\Core Application\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="282bcc9b93e44713f8ab8318468c916ad86e5769">
+        <dex dex="C:\Users\PC_2\Desktop\Core Application\app\build\intermediates\pre-dexed\debug\instant-run_4cadea33cec45f54b07e6f733b1db2655f845705.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC_2\Desktop\Core Application\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf3c86007694d742476d13d05f67d0016b5a219a">
+        <dex dex="C:\Users\PC_2\Desktop\Core Application\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5cb94326c75e84a6a9a8dba07f7461755ecadd90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC_2\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\PC_2\Desktop\Core Application\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_6c71a2eb2780908b7d1a03c975e0729b9c097a2e.jar" />
+    </item>
+
+</items>

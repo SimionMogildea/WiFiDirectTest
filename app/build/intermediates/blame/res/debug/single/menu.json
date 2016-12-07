@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\menu\\speaker.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\menu\\speaker.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\menu\\wi_fi_direct2.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\menu\\wi_fi_direct2.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\menu\\wifidirect.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\menu\\wifidirect.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\menu\\wifidirect_less.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\menu\\wifidirect_less.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dj.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\menu\\dj.xml"
+    }
+]

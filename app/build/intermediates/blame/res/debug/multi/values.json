@@ -1,0 +1,581 @@
+[
+    {
+        "outputFile": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 39,
+                        "endOffset": 705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 57,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 55,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 52,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endColumn": 52,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 118,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endColumn": 118,
+                        "endOffset": 858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 55,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 465,
+                        "endColumn": 55,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 61,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 61,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endColumn": 58,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 58,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endColumn": 26,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 34,
+                        "endOffset": 669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 638,
+                    "endColumn": 93,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endColumn": 93,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 58,
+                    "endOffset": 786
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 58,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 791,
+                    "endColumn": 55,
+                    "endOffset": 842
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endColumn": 55,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 847,
+                    "endColumn": 69,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1035,
+                        "endColumn": 69,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 39,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 39,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 45,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endColumn": 45,
+                        "endOffset": 1186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 33,
+                    "endOffset": 1032
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endColumn": 33,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1037,
+                    "endColumn": 77,
+                    "endOffset": 1110
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 77,
+                        "endOffset": 1030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1115,
+                    "endColumn": 43,
+                    "endOffset": 1154
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1268,
+                        "endColumn": 43,
+                        "endOffset": 1307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1159,
+                    "endColumn": 43,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1312,
+                        "endColumn": 43,
+                        "endOffset": 1351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1203,
+                    "endColumn": 53,
+                    "endOffset": 1252
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 53,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1257,
+                    "endColumn": 60,
+                    "endOffset": 1313
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 60,
+                        "endOffset": 1491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1318,
+                    "endColumn": 73,
+                    "endOffset": 1387
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1361,
+                        "endColumn": 73,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1392,
+                    "endColumn": 63,
+                    "endOffset": 1451
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 63,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1456,
+                    "endColumn": 75,
+                    "endOffset": 1527
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1496,
+                        "endColumn": 75,
+                        "endOffset": 1567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1532,
+                    "endColumn": 76,
+                    "endOffset": 1604
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1191,
+                        "endColumn": 76,
+                        "endOffset": 1263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1609,
+                    "endColumn": 66,
+                    "endOffset": 1671
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 66,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1676,
+                    "endColumn": 35,
+                    "endOffset": 1707
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 674,
+                        "endColumn": 35,
+                        "endOffset": 705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1712,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1998
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2003,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2158
+                },
+                "from": {
+                    "file": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

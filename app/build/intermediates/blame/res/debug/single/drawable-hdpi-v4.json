@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gradient_bg.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_previous.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\btn_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gradient_bg_hover.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_selector.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seekbar_progress.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\seekbar_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playlist.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\btn_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_play.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\btn_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seekbar_progress_bg.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\seekbar_progress_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_repeat_focused.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\btn_repeat_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_backward.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\btn_backward.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\adele.jpg",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\adele.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_forward.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\btn_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_repeat.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\btn_repeat.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_next.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\btn_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_shuffle.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\btn_shuffle.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pause.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\btn_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_shuffle_focused.xml",
+        "source": "C:\\Users\\PC_2\\Desktop\\Core Application\\app\\src\\main\\res\\drawable-hdpi\\btn_shuffle_focused.xml"
+    }
+]
